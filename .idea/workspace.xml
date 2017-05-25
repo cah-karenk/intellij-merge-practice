@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8714a376-14c8-42ab-a936-9c413073b71c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/gitpractice/app/App.java" afterPath="$PROJECT_DIR$/src/main/java/com/gitpractice/app/App.java" />
-    </list>
+    <list default="true" id="8714a376-14c8-42ab-a936-9c413073b71c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,7 +19,7 @@
             <state relative-caret-position="187">
               <caret line="14" column="78" lean-forward="false" selection-start-line="14" selection-start-column="78" selection-end-line="14" selection-end-column="78" />
               <folding>
-                <marker date="1495748698000" expanded="false" signature="174:180" ph=" }" />
+                <marker date="1495748759000" expanded="false" signature="172:178" ph=" }" />
               </folding>
             </state>
           </provider>
@@ -541,12 +538,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495747286608</updated>
-      <workItem from="1495747290974" duration="735000" />
+      <workItem from="1495747290974" duration="807000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="735000" />
+    <option name="totallyTimeSpent" value="807000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="137" y="91" width="1931" height="873" extended-state="0" />
@@ -598,7 +595,7 @@
         <state relative-caret-position="187">
           <caret line="14" column="78" lean-forward="false" selection-start-line="14" selection-start-column="78" selection-end-line="14" selection-end-column="78" />
           <folding>
-            <marker date="1495748698000" expanded="false" signature="174:180" ph=" }" />
+            <marker date="1495748759000" expanded="false" signature="172:178" ph=" }" />
           </folding>
         </state>
       </provider>
