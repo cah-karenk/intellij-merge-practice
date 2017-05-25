@@ -20,10 +20,10 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gitpractice/app/App.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+              <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
               <folding>
                 <element signature="e#126#127#0" expanded="true" />
-                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#179#180#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -542,12 +542,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495747286608</updated>
-      <workItem from="1495747290974" duration="956000" />
+      <workItem from="1495747290974" duration="1072000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="956000" />
+    <option name="totallyTimeSpent" value="1072000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="137" y="91" width="1931" height="873" extended-state="0" />
@@ -597,10 +597,10 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gitpractice/app/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
           <folding>
             <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
           </folding>
         </state>
       </provider>
