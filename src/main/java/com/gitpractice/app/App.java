@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello Planet!" );
+        System.out.println( "Hello Moon!" );
     }
 
     //adding a line working in TEST-0001
