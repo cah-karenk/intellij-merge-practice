@@ -10,6 +10,7 @@ public class App
     {
         System.out.println("This is our added line");
         System.out.println( "Hello Sun!" );
+        System.out.println("Goodbye");
     }
 
 
