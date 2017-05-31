@@ -11,7 +11,7 @@ public class App
         System.out.println("This is our added line");
         System.out.println( "Hello Sun!" );
         System.out.println("Goodbye");
-        System.out.println("Changed 'Wednesday' to 'Next Thursday'");
+        System.out.println("Changed 'Wednesday' to 'Next Monday'");
         System.out.println("Added this line in IDE after github addition");
     }
 
